@@ -1,0 +1,5 @@
+body{
+	border-radius:3px;
+	box-sizing:border-box;
+	transition:2s width;
+}

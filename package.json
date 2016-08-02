@@ -1,0 +1,23 @@
+{
+  "name": "gulp-practice",
+  "version": "1.0.0",
+  "description": "practice for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "wason",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "cssstyle": "0.2.3",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.12",
+    "less-brunch": ">= 1.0 < 1.5"
+  }
+}
